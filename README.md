@@ -5,3 +5,4 @@ I've made a collection of all my Python mini projects to date.
 * [The hangman game](https://repl.it/join/awkwcwmo-msolguatelli)
 * [Blackjack](https://repl.it/join/vpcfvcht-msolguatelli)
 * [Higher or Lower Game](https://repl.it/join/frhgolfx-msolguatelli)
+* [The Classic Snake Game](https://repl.it/join/xhmazpcb-msolguatelli)
