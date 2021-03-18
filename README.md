@@ -7,3 +7,4 @@ I've made a collection of all my Python mini projects to date.
 * [Higher or Lower Game](https://repl.it/join/frhgolfx-msolguatelli)
 * [Classic Snake Game](https://repl.it/join/xhmazpcb-msolguatelli) - Turtle library
 * [Classic Pong Game](https://repl.it/join/zlmgicuy-msolguatelli) - Turtle library
+* [U.S States Quiz](https://replit.com/join/yyhfzshl-msolguatelli) - Turtle library
